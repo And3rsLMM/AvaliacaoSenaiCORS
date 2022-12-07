@@ -27,7 +27,7 @@ Este repositório dispõe apenas de um front-end simples e um arquivo de JS util
 
 **Clonar o repositório**
 ```
-git clone https://github.com/And3rsLMM/AvaliacaoCORS-Senai.git
+git clone https://github.com/And3rsLMM/AvaliacaoSenaiCORS.git
 ```
 
 **Executar a aplicação**
